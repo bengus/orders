@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  orders
+
+  Created by Boris Bengus on 16.04.2021.
+  
+*/
+
+"HomeOrdersTabTitle" = "Orders";
+"HomeAboutTabTitle" = "About";
+"OrderListNavTitle" = "Orders";
+"OrderDetailsNavTitleFormat_%@" = "№%@";
+"AboutNavTitle" = "About";
